@@ -1,6 +1,6 @@
 # svelte-project-Sollicitatie.
  
-## This is a list of python scripts for beginner projects.
+## Dit is een pokedex gebouwd met svelte-template.
 
 ### Description
 
