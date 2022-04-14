@@ -1,8 +1,8 @@
-# svelte-project-Sollicitatie.
+# Svelte-project-Sollicitatie.
 
 ### Description
 
-dit is een pokedex applicatie waar je namen en pkedex nummers kan opzoeken en met de api haal je informatie op
+dit is een pokedex applicatie waar je namen en pokedex nummers kan opzoeken en met de API haal je informatie op
 
 ### log
  
