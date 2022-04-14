@@ -25,8 +25,10 @@ const search_btn = document.getElementById('search-btn')
             document.getElementById('update_img').setAttribute('src', pokemon.sprites.other.official-artwork.front_default)
             document.getElementById('update_name').innerHTML = pokemon.name
             document.getElementById('update_candy_title').innerHTML = `${pokemon.name} Candy`
+            // get stats
             document.getElementById('update_hp').innerHTML = `HP ${Math.floor((Math.random() * pokemon.stats[0].base_stat) + 1)}/${pokemon.stats[0].base_stat}`
             document.getElementById('update_cp').innerHTML = `XP ${pokemon.base_experience}`
+            // get types
             document.getElementById('update_type').innerHTML = `${pokemon.types[0].type.name} / ${pokemon.types[1].type.name}`
             document.getElementById('update_weight').innerHTML = `${pokemon.weight}kg`
             document.getElementById('update_height').innerHTML = `0.${pokemon.height}m`
