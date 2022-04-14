@@ -1,6 +1,4 @@
 # svelte-project-Sollicitatie.
- 
-## Dit is een pokedex gebouwd met svelte-template.
 
 ### Description
 
